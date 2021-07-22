@@ -1,0 +1,19 @@
+{
+  "name": "js-vk-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vk-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node vk-bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-vk-bot-api": "^3.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
